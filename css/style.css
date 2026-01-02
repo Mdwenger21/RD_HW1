@@ -45,7 +45,29 @@ div{
 
 
 
+@media screen and (min-width: 772px){
+    div{
+        width: 45vw;
+    }
 
+    div img{
+        height: 30vw;
+        width: 100%;
+    }
+
+}
+
+@media screen and (min-width: 998px){
+    div{
+        width: 30vw;
+    }
+
+    div img{
+        height: 30vw;
+        width: 100%;
+    }
+
+}
 
 
 
